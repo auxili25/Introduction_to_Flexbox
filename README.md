@@ -5,7 +5,7 @@
 
 > This project was done with the purpose of learning how to use GitHub and at the same time everything related to gastronomy, to improve presentation skills, know and value diversity through food
 
-!(./app_screenshot.png)![auxi](https://github.com/auxili25/Introduction_to_Flexbox/assets/158069399/108d180a-2458-4966-a0ee-8326000f9000)
+!![auxi](https://github.com/auxili25/Introduction_to_Flexbox/assets/158069399/108d180a-2458-4966-a0ee-8326000f9000)
 
 
 Additional description about the project and its features.
